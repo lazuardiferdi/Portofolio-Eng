@@ -1,6 +1,6 @@
 # Lazuardi Ferdiansyah QA Portfolio
 
-**Senior QA Analyst & Tester** · 5+ Years Experience · Jakarta, Indonesia
+**Senior QA Analyst & Tester** · 5+ Years Experience · Depok, Indonesia
 
 📧 lazuardi.ferdi@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/lazuardiferdi) · 🐙 [GitHub](https://github.com/lazuardiferdi)
 
@@ -93,40 +93,24 @@ Based in **Depok, Indonesia** open to on-site, hybrid, or fully remote opportuni
 
 ### FIFGROUP Projects
 
-#### Marketing Budget System
-An internal application to manage FIFGROUP's marketing budgets planning, allocation, monitoring of periodic spend, and performance reporting, integrated with internal financial systems.
+#### Marketing & Finance Internal Applications
+Internal web applications supporting marketing operations and financial workflows, including budget planning, performance reporting, and finance-related processing.
 
-**My role:** Led regression and integration testing; validated budget calculation logic directly against Oracle DB to ensure financial data accuracy.
-
----
-
-#### Internal Reward System
-A structured system for managing employee rewards based on performance metrics, designed to increase motivation and create a transparent recognition process.
-
-**My role:** Covered functional and regression testing for reward calculation and approval flow modules.
+**My role:** Led functional, regression, and integration testing across multiple modules; validated core calculation logic against the database to ensure financial data accuracy.
 
 ---
 
-#### Collateral Management System (CMS)
-An internal system for managing the full lifecycle of customer collateral assets tied to FIFGROUP's financing products including **motorcycle BPKB** (DANASTRA), **Hajj/Umrah documents** (AMITRA), and other collateral types across conventional and sharia financing schemes.
+#### Collateral Management System
+An internal system supporting the management of customer collateral assets across multiple financing product types, covering both conventional and sharia financing schemes.
 
-The system covers collateral intake and product-based verification, secure vault storage, collateral mutation transactions, routine monitoring and stock-taking, handling of non-performing borrowers, and handover to relevant parties including insurers, banks, and third-party agents. It is integrated with FIFGROUP's Loan Origination and Collection Management systems.
-
-**My role:** Designed and executed test cases focused on **collateral fee calculation accuracy** across multiple asset types and financing products. Validated fee computation logic including provision fees, administrative fees, insurance, and binding fees against business rules using Oracle DB queries. Performed regression testing to ensure calculation consistency across product updates and business policy changes. Identified **2–5 critical defects per development cycle** that, if released, would have corrupted calculation logic across all marketing and finance menus preventing potentially widespread financial data errors in production.
+**My role:** Designed and executed test cases focused on **fee calculation accuracy** across various collateral and financing scenarios. Performed regression testing to ensure calculation consistency across releases. Working under a **Waterfall methodology**, identified **3–8 critical defects per development cycle** that could have caused widespread calculation errors across core finance menus preventing significant financial data issues in production.
 
 ---
 
-#### FEMA FIFGROUP Employee Mobile Application *(iOS & Android)*
-A mobile platform for employees to access job-related information and digital learning. Features include employee profiles, company news, event updates, FIFTUBE (media channel), and e-learning modules.
+#### Employee Internal Applications *(Web & Mobile)*
+A set of internal applications supporting employee self-service needs, including mobile platforms for information access, digital learning, attendance recording, and leave management.
 
-**My role:** Executed functional and UAT testing across both iOS and Android environments, including device compatibility checks.
-
----
-
-#### FIMA Mobile Attendance System
-A mobile-based attendance system allowing employees to record attendance, request leave, and monitor working hours in real time via their devices.
-
-**My role:** Tested leave request logic, API endpoints for attendance submission, and GPS-based clock-in/out features.
+**My role:** Executed functional and UAT testing across web and mobile environments (iOS & Android), including API validation, workflow logic, and device compatibility checks.
 
 ---
 
