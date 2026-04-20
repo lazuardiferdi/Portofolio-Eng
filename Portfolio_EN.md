@@ -1,6 +1,6 @@
 # Lazuardi Ferdiansyah QA Portfolio
 
-**Senior QA Analyst & Tester** · 5+ Years Experience · Depok, Indonesia
+**Senior QA Analyst & Tester** · 5+ Years Experience · Jakarta, Indonesia
 
 📧 lazuardi.ferdi@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/lazuardiferdi) · 🐙 [GitHub](https://github.com/lazuardiferdi)
 
