@@ -30,7 +30,7 @@ Based in **Depok, Indonesia** open to on-site, hybrid, or fully remote opportuni
 ## Work Experience
 
 ### Senior QA Analyst & Tester
-**FIFGROUP, member of ASTRA** · February 2022 – Present
+**FIFGROUP, member of ASTRA** · December 2022 – Present
 
 - Led manual and automated testing for **marketing and finance-related applications**, covering full test case creation and execution cycles
 - Conducted functional, regression, integration, and UAT testing consistently reducing production defect escape rates across sprint cycles
@@ -44,7 +44,7 @@ Based in **Depok, Indonesia** open to on-site, hybrid, or fully remote opportuni
 ---
 
 ### QA Engineer & Tester
-**PT Fusi Solusi Transformasi** · January 2020 – January 2022
+**PT Fusi Solusi Transformasi** · January 2020 – November 2022
 *Vendor for PT Kustodian Sentral Efek Indonesia (KSEI) & PT Berau Coal Energy*
 
 - Led manual and automated testing for web applications related to **custody and settlement of securities**, including Custody Management, KYC, and Employee Management modules
