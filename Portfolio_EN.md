@@ -44,7 +44,7 @@ Based in **Depok, Indonesia** open to on-site, hybrid, or fully remote opportuni
 ---
 
 ### QA Engineer & Tester
-**PT Fusi Solusi Transformasi** · January 2020 – November 2022
+**PT Fusi Solusi Transformasi** · August 2020 – August 2022
 *Vendor for PT Kustodian Sentral Efek Indonesia (KSEI) & PT Berau Coal Energy*
 
 - Led manual and automated testing for web applications related to **custody and settlement of securities**, including Custody Management, KYC, and Employee Management modules
