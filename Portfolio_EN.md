@@ -30,7 +30,7 @@ Based in **Depok, Indonesia** open to on-site, hybrid, or fully remote opportuni
 ## Work Experience
 
 ### Senior QA Analyst & Tester
-**FIFGROUP, member of ASTRA** · December 2022 – Present
+**FIFGROUP, member of ASTRA** · September 2022 – Present
 
 - Led manual and automated testing for **marketing and finance-related applications**, covering full test case creation and execution cycles
 - Conducted functional, regression, integration, and UAT testing consistently reducing production defect escape rates across sprint cycles
